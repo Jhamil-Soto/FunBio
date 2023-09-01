@@ -20,10 +20,10 @@ Las causas todavía son todavía inciertas; sin embargo, puede aparecer debido a
 ## **3. ¿Cuáles son las complicaciones que puede traer?**
 Existe un posible riesgo de sangrado e infección debido al procedimiento quirúrgico que es optado en el tratamiento. Asimismo, también cabe una gran posibilidad de dañar la fisis si la lesión se encuentra cerca de la placa de crecimiento. Otra enfermedad como la embolia pulmonar también aparece como una gran preocupación en las cirugías ortopédicas.
 
-## **Bibliografía
-*1. Salazar Villanea R, Ry MA. QUISTE ÓSEO ANEURISMÁTICO [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Disponible en: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2013/rmc131zf.pdf
-*2. Joyce MJ, Joyce DM. Quistes óseos [Internet]. Manual MSD versión para público general. [citado el 31 de agosto de 2023]. Disponible en: https://www.msdmanuals.com/es-pe/hogar/trastornos-de-los-huesos,-articulaciones-y-m%C3%BAsculos/tumores-%C3%B3seos-y-articulares/quistes-%C3%B3seos
-*3 3. Cruz GS, Cuevas-Suárez CE, Saavedra JPA, Giorgis R, Teixeira MRK, Muniz FWMG. Percutaneous treatments of primary aneurysmal bone cysts: systematic review and meta-analysis. Eur J Orthop Surg Traumatol [Internet]. 2021 [citado el 31 de agosto de 2023];31(7):1287–95. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33550464/
+## Bibliografía
+* 1. Salazar Villanea R, Ry MA. QUISTE ÓSEO ANEURISMÁTICO [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Disponible en: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2013/rmc131zf.pdf
+* 2. Joyce MJ, Joyce DM. Quistes óseos [Internet]. Manual MSD versión para público general. [citado el 31 de agosto de 2023]. Disponible en: https://www.msdmanuals.com/es-pe/hogar/trastornos-de-los-huesos,-articulaciones-y-m%C3%BAsculos/tumores-%C3%B3seos-y-articulares/quistes-%C3%B3seos
+* 3. Cruz GS, Cuevas-Suárez CE, Saavedra JPA, Giorgis R, Teixeira MRK, Muniz FWMG. Percutaneous treatments of primary aneurysmal bone cysts: systematic review and meta-analysis. Eur J Orthop Surg Traumatol [Internet]. 2021 [citado el 31 de agosto de 2023];31(7):1287–95. Disponible en: https://pubmed.ncbi.nlm.nih.gov/33550464/
 
 
 
