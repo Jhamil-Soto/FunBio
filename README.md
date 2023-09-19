@@ -9,7 +9,7 @@ Integrantes:
 - Diego Alonso Alvarez O'Neill (Encargado de la programación)
 - Flavio Florentino Valladares Tucto (Investigador y redactor)
 
-##**1. Fisiopatología**##
+## **1. Fisiopatología** ##
 
 La fisiopatología de la apendicitis aguda es aún desconocida, aunque se han propuesto varias teorías. La más aceptada por los cirujanos describe una fase inicial en la que se produce una obstrucción del lumen apendicular debido a diferentes factores, lo que causa distensión luminal y aumento de presión intraluminal. Con el tiempo, se produce una obstrucción adicional del flujo linfático y venoso, lo que favorece aún más el crecimiento bacteriano y desencadena la producción de edema.
 
@@ -17,7 +17,7 @@ En esta etapa, el apéndice se vuelve edematoso e isquémico, lo que provoca una
 
 Otras teorías propuestas incluyen la ulceración de la mucosa por infección viral seguida de colonización bacteriana, así como una dieta pobre en fibra que ralentiza el tránsito intestinal y contribuye a la retención de heces en el apéndice. Aunque estas teorías no son tan ampliamente aceptadas como la primera, es importante tenerlas en cuenta al evaluar a un paciente con sospecha de apendicitis aguda.
 
-##**2. Diagnóstico Clínico**##
+## **2. Diagnóstico Clínico** ##
 
 A pesar de los múltiples métodos diagnósticos disponibles, la historia clínica y el examen físico siguen siendo fundamentales para el diagnóstico de la apendicitis. El dolor es descrito como agudo y localizado inicialmente en el epigastrio o periumbilical, migrando a la fosa iliaca derecha en un 50-60% de los casos. Las consideraciones anatómicas y sus variantes pueden influir en la presentación del dolor. Anorexia y náusea son síntomas frecuentes, mientras que el vómito es poco común antes de la instauración del dolor.
 
@@ -25,7 +25,7 @@ Durante la evaluación del paciente, se enfatiza en la localización del dolor y
 
 En cuanto al uso de analgesia en pacientes con dolor abdominal y posible apendicitis, se ha descrito que puede atenuar o abolir los signos sugestivos de la enfermedad, lo que ha llevado a evitar su uso. Sin embargo, la evidencia actual no respalda esta práctica. Existen medicamentos con propiedades analgésicas puras u otros que adicionalmente tienen mecanismos antiinflamatorios. Un estudio mostró que los opiodes no se asocian con retraso en el tratamiento, mientras que los antiinflamatorios sí lo hacen. Por lo tanto, se debe considerar cuidadosamente el uso de analgesia en pacientes con sospecha de apendicitis aguda.
 
-## **Dispositivos y técnicas de diagnóstico** ##
+## **3. Dispositivos y técnicas de diagnóstico** ##
 
 - Radiológico
   
