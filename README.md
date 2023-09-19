@@ -39,7 +39,7 @@ Se han utilizado glóbulos blancos marcados con tecnecio 99m y Solesumab como m�
 
 La leucocitosis, con un conteo de leucocitos entre 12,000 y 18,000 mm3, se observa comúnmente en pacientes con apendicitis aguda. Sin embargo, este valor no es útil para diferenciar entre apendicitis complicada y no complicada. Los análisis de orina se solicitan para excluir la posibilidad de infección del tracto urinario y pueden mostrar piuria y/o hematuria sin bacteriuria en un tercio de los pacientes con apendicitis debido a la proximidad del uréter y la vejiga. 
 
-## **Tratamiento** ##
+## **4. Tratamiento** ##
 
 El tratamiento de la apendicitis aguda se basa en la resucitación inicial del paciente y el tratamiento quirúrgico definitivo. Se debe administrar fluidos endovenosos y antibióticos preoperatorios activos contra la flora encontrada en el apéndice. El uso de antibióticos preoperatorios disminuye las complicaciones postquirúrgicas. En casos de apendicitis aguda no perforada, una dosis única de cefalotina o ampicilina es suficiente. En casos de apendicitis perforada, se ha utilizado una triple asociación antibiótica con ampicilina, gentamicina y metronidazol/clindamicina. El uso de antibióticos postoperatorios no adiciona ningún beneficio en el tratamiento de los pacientes con apendicitis aguda no perforada y aumenta los costos.
 
