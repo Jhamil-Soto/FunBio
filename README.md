@@ -9,6 +9,10 @@ Integrantes:
 - Diego Alonso Alvarez O'Neill (Encargado de la programación)
 - Flavio Florentino Valladares Tucto (Investigador y redactor)
 
+## **¿Qué es la apendicitis?**
+
+La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.
+
 ## **1. Fisiopatología** ##
 
 La fisiopatología de la apendicitis aguda es aún desconocida, aunque se han propuesto varias teorías. La más aceptada por los cirujanos describe una fase inicial en la que se produce una obstrucción del lumen apendicular debido a diferentes factores, lo que causa distensión luminal y aumento de presión intraluminal. Con el tiempo, se produce una obstrucción adicional del flujo linfático y venoso, lo que favorece aún más el crecimiento bacteriano y desencadena la producción de edema.
