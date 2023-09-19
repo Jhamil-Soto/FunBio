@@ -52,6 +52,18 @@ El uso de antibióticos en pacientes operados por apendicitis aguda es una prác
 
 Enfocado en la parte de prevención y diagnóstico, debido a que el tratamiento con antibióticos invasivo y no está dentro de los parámetros establecidos 
 
+## **Problemática**
+
+- Dificultad en el diagnóstico precoz
+- Perforación del apéndice
+- Complicaciones quirúrgicas
+- Prevención limitada
+- Sospecha diagnóstica en grupos especiales
+- Complejidad etiopatogenia  
+
+## **Estado del arte**
+
+
 
 ## Bibliografía
 * 1. Salazar Villanea R, Ry MA. QUISTE ÓSEO ANEURISMÁTICO [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Disponible en: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2013/rmc131zf.pdf
