@@ -49,7 +49,7 @@ El lavado peritoneal nunca ha mostrado beneficio clínico. La técnica laparosc�
 
 ## **Estado del arte comercial** ##
 
-- **EPIQ 7**
+**EPIQ 7**
 
 El sistema de ultrasonido Philips EPIQ 7 es una herramienta de alta gama con tecnología avanzada y características innovadoras. Su objetivo es proporcionar imágenes de alta calidad y facilitar la recopilación de datos precisos en diversas aplicaciones médicas, incluyendo estudios pélvicos.
 
