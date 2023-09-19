@@ -9,16 +9,49 @@ Integrantes:
 - Diego Alonso Alvarez O'Neill (Encargado de la programación)
 - Flavio Florentino Valladares Tucto (Investigador y redactor)
 
-## **1. ¿Qué es el quiste óseo aneurismático?**
-- El quiste óseo aneurismático (QOA) es un tumor benigno, no canceroso, que afecta mayormente a los niños y adultos jóvenes. Este se desarrolla sobre una lesión preexistente en cualquier parte del hueso humano, pero tiene una gran preferencia en la metáfisis, ubicada entre la epífisis y la diáfisis. Asimismo, en su proceso infunde un líquido que expande el periostio, membrana del tejido conjuntivo que envuelve a los huesos, y ocasiona que pierda la capa superficial del hueso cortical de manera paulatina. Existen algunos métodos, como la resonancia magnética (RM), por los cuales nos pueden dar algunas señales de que se presente la lesión. Sin embargo, se tienen otros procedimientos, como el estudio por imagen, que nos ofrecen un diagnóstico de probabilidad.
+## **1. ¿Qué es el apendicitis?**
+- La apendicitis es una afección inflamatoria del apéndice, una estructura en forma de bolsa que se extiende desde el colon en la parte inferior derecha del abdomen. Los síntomas de la apendicitis incluyen dolor abdominal en el lado inferior derecho, aunque en algunos casos el dolor puede comenzar alrededor del ombligo y luego desplazarse. A medida que la inflamación empeora, el dolor tiende a aumentar en intensidad. 
 
-## **2. ¿Qué es lo que ocasiona que aparezca este tumor?**
-Las causas todavía son todavía inciertas; sin embargo, puede aparecer debido a malformaciones vasculares en el hueso. Existen posibles teorías para la etiología:
-- Resulta de la separación de un tumor óseo primario. La mayoría de estas lesiones son condromixoides, fibromas, condrosarcomas, displasia fibrosa, entre otros.
-- Puede aparecer en el sitio de alguna lesión previa causada por una fuente externa.
+## **2. Sintomas**
 
-## **3. ¿Cuáles son las complicaciones que puede traer?**
-Existe un posible riesgo de sangrado e infección debido al procedimiento quirúrgico que es optado en el tratamiento. Asimismo, también cabe una gran posibilidad de dañar la fisis si la lesión se encuentra cerca de la placa de crecimiento. Otra enfermedad como la embolia pulmonar también aparece como una gran preocupación en las cirugías ortopédicas.
+Los síntomas de la apendicitis pueden variar, pero generalmente incluyen:
+
+- Dolor repentino en el lado derecho del abdomen inferior.
+- Dolor repentino alrededor del ombligo que se desplaza hacia la parte inferior derecha del abdomen.
+- Dolor que empeora al toser, caminar u realizar movimientos bruscos.
+- Náuseas y vómitos.
+- Pérdida de apetito.
+- Fiebre leve que puede aumentar a medida que avanza la enfermedad.
+- Estreñimiento o diarrea.
+- Hinchazón abdominal.
+- Flatulencia.
+
+## **3. Causas**
+
+La apendicitis se produce generalmente debido a una obstrucción en el revestimiento del apéndice, lo que puede provocar una infección. Cuando las bacterias se multiplican rápidamente, se produce una inflamación del apéndice que puede ocasionar hinchazón y acumulación de pus. Si no se trata de manera inmediata, el apéndice puede romperse y provocar una infección grave en el abdomen.
+
+## **4. Complicaciones**
+
+La perforación del apéndice puede ser una complicación grave de la apendicitis. Si el apéndice se rompe, la infección puede extenderse al abdomen, lo que se conoce como peritonitis. La peritonitis es una enfermedad potencialmente mortal que requiere atención médica inmediata. En estos casos, se debe realizar una cirugía de emergencia para extraer el apéndice y limpiar la cavidad abdominal.
+
+Otra complicación posible es la formación de un absceso, que es una acumulación de pus en el abdomen. Si el apéndice se rompe y se forma un absceso, el cirujano puede drenarlo introduciendo un tubo a través de la pared abdominal hasta el absceso. El tubo se deja colocado durante aproximadamente dos semanas y el paciente recibe antibióticos para combatir la infección.
+
+## **4. Tratamientos**
+
+- Apendicectomía:
+  
+La apendicectomía laparoscópica es una técnica quirúrgica que se introdujo en 1980 por el cirujano K Semm. Esta técnica se utiliza para extirpar el apéndice inflamado de forma menos invasiva que la cirugía abierta tradicional. Si bien en sus primeros días se realizó principalmente en asociación con procedimientos ginecológicos profilácticos, pronto se adoptó como un tratamiento estándar para la apendicitis aguda.
+
+A lo largo de los años, se han llevado a cabo numerosos estudios comparativos para evaluar las ventajas y desventajas de la apendicectomía laparoscópica en comparación con la cirugía abierta. Estos estudios han demostrado que la apendicectomía laparoscópica presenta varias ventajas, como una recuperación más rápida, menos dolor postoperatorio, menor tasa de infección y menor tiempo de hospitalización en comparación con la cirugía abierta.
+
+- Antibióticos:
+  
+El uso de antibióticos en pacientes operados por apendicitis aguda es una práctica común y esencial para prevenir complicaciones sépticas. La infección del sitio quirúrgico es una de las complicaciones más frecuentes de la apendicitis, y el uso de antibióticos es una medida prioritaria en el postoperatorio para reducir el riesgo de infección. Por lo tanto, estos se utilizan para tratar la infección del apéndice y prevenir la propagación de bacterias alrededor del área afectada. 
+
+## **Enfoque**
+
+Enfocado en la parte de prevención y diagnóstico, debido a que el tratamiento con antibióticos invasivo y no está dentro de los parámetros establecidos 
+
 
 ## Bibliografía
 * 1. Salazar Villanea R, Ry MA. QUISTE ÓSEO ANEURISMÁTICO [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Disponible en: https://www.medigraphic.com/pdfs/revmedcoscen/rmc-2013/rmc131zf.pdf
