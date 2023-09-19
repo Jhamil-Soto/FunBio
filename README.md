@@ -49,8 +49,16 @@ El lavado peritoneal nunca ha mostrado beneficio clínico. La técnica laparosc�
 
 ## **Estado del arte comercial** ##
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/09d017be-7e3a-47d5-b87f-c71bf7521d14) ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/5da7a389-bc79-446a-bde3-46269b6f20cc)
+- **EPIQ 7**
 
+El sistema de ultrasonido Philips EPIQ 7 es una herramienta de alta gama con tecnología avanzada y características innovadoras. Su objetivo es proporcionar imágenes de alta calidad y facilitar la recopilación de datos precisos en diversas aplicaciones médicas, incluyendo estudios pélvicos.
+
+Características destacadas del Philips EPIQ 7:
+
+- PureWave Cristal Tecnología: Este sistema utiliza transductores PureWave Crystal, que ofrecen una mayor resolución de imagen y una mejor penetración, lo que resulta en una calidad de imagen excepcional.
+- nSIGHT Imaging: Esta tecnología de procesamiento de imágenes avanzada mejora la claridad de las imágenes y la capacidad de visualización de estructuras anatómicas.
+- Elastografía Shear Wave: Permite evaluar la rigidez de los tejidos, lo que puede ser útil en la caracterización de masas o tumores.
+- XRES: Ofrece una reducción de ruido en las imágenes para una visualización más nítida de las estructuras.
 
 
 
