@@ -47,6 +47,13 @@ El tratamiento óptimo en los casos de apendicitis aguda no perforada es la resu
 
 El lavado peritoneal nunca ha mostrado beneficio clínico. La técnica laparoscópica ha mostrado disminución en la aparición de infecciones de herida, dolor postoperatorio y estancia hospitalaria, teniendo en su contra un aumento en la incidencia de abscesos intra-abdominales. La técnica laparoscópica se ha promovido para casos de apendicitis complicada y se ha asociado con menor uso de analgésicos, menor tiempo de hospitalización, menor incidencia de infección de heridas y menor formación de abscesos intra-abdominales.
 
+## **Estado del arte comercial** ##
+
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/09d017be-7e3a-47d5-b87f-c71bf7521d14)
+
+
+
+
 
 ## Bibliografía
 
