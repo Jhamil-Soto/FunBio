@@ -31,16 +31,6 @@ En cuanto al uso de analgesia en pacientes con dolor abdominal y posible apendic
 
 ## **3. Dispositivos y técnicas de diagnóstico** ##
 
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-|:------------- |:---------------:| -------------:|
-| - Radiológico                         | Cell 2          | Cell 3        |
-| - Medicina nuclear                    | Cell 5          | Cell 6        |
-|- Laboratorio (examen clínico)         | Cell 8          | Cell 9        |
-
-
-
-
  - Radiológico
    
 La radiografía simple de abdomen no se recomienda como método diagnóstico rutinario para la apendicitis aguda, pero puede ser útil en casos de clínica atípica y duda diagnóstica. El ultrasonido (US) y la tomografía                       abdominal (TAC) han sido comparados en los últimos años para mejorar el diagnóstico de la apendicitis aguda. El TAC ha demostrado una alta sensibilidad y especificidad, especialmente en niños, y se ha promovido su uso                    protocolario en pacientes con sospecha de apendicitis aguda desde su admisión. Sin embargo, su uso innecesario puede retrasar el diagnóstico y tratamiento. El US también tiene una buena precisión diagnóstica, pero                        depende del conocimiento y habilidad del sonografista. En general, se recomienda realizar estudios de imagen en casos de duda diagnóstica.
