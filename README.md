@@ -60,8 +60,19 @@ Características destacadas del Philips EPIQ 7:
 - Elastografía Shear Wave: Permite evaluar la rigidez de los tejidos, lo que puede ser útil en la caracterización de masas o tumores.
 - XRES: Ofrece una reducción de ruido en las imágenes para una visualización más nítida de las estructuras.
 
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/2c1f5b21-cd85-47f4-b4ec-72981cb0cf87)
 
+**FUJIFILM SonoSite Edge II**
 
+El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrece imágenes de alta calidad y precisión en una variedad de aplicaciones médicas, incluyendo estudios pélvicos. Este sistema se destaca por su tecnología innovadora y características avanzadas que facilitan la adquisición de datos precisos.
+
+- Portabilidad: El Edge II es extremadamente portátil y está diseñado para su uso en entornos móviles o en el punto de atención, lo que lo hace ideal para situaciones donde la movilidad es esencial.
+- Durabilidad: Ofrece una construcción robusta y duradera que puede resistir condiciones exigentes y el transporte frecuente sin comprometer la calidad o el rendimiento.
+- Facilidad de Uso: Cuenta con una interfaz de usuario intuitiva que facilita la configuración y la obtención de imágenes de alta calidad, lo que permite un diagnóstico rápido y preciso.
+- Amplia Variedad de Aplicaciones: A pesar de su tamaño compacto, el Edge II es versátil y puede utilizarse en diversas aplicaciones médicas, incluyendo emergencias, cuidados intensivos, anestesiología y más.
+- Calidad de Imagen: Ofrece una calidad de imagen de alto rendimiento que permite una visualización clara de las estructuras anatómicas y un diagnóstico preciso.
+
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/8aff5ec7-da61-4ec4-ab11-edc650895f65)
 
 
 ## Bibliografía
