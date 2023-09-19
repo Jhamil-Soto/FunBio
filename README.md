@@ -49,7 +49,8 @@ El lavado peritoneal nunca ha mostrado beneficio clínico. La técnica laparosc�
 
 ## **Estado del arte comercial** ##
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/09d017be-7e3a-47d5-b87f-c71bf7521d14)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/09d017be-7e3a-47d5-b87f-c71bf7521d14) ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/5da7a389-bc79-446a-bde3-46269b6f20cc)
+
 
 
 
