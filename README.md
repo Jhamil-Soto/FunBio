@@ -104,15 +104,15 @@ El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrec
 
 Bibliografía
 
-- 1.	Apendicitis [Internet]. Mayoclinic.org. 2021 [citado el 19 de septiembre de 2023]. Disponible en: https://www.mayoclinic.org/es/diseases-conditions/appendicitis/symptoms-causes/syc-20369543
+1.	Apendicitis [Internet]. Mayoclinic.org. 2021 [citado el 19 de septiembre de 2023]. Disponible en: https://www.mayoclinic.org/es/diseases-conditions/appendicitis/symptoms-causes/syc-20369543
  	 
-- 2.	Elsevier.es. [citado el 19 de septiembre de 2023]. Disponible en: https://www.elsevier.es/es-revista-cirujano-general-218-articulo-prevalencia-apendicitis-aguda-un-centro-X1405009914551822#:~:text=El%207%25%20de%20la%20poblaci%C3%B3n,6.7%25%20para%20el%20sexo%20femenino.
+2.	Elsevier.es. [citado el 19 de septiembre de 2023]. Disponible en: https://www.elsevier.es/es-revista-cirujano-general-218-articulo-prevalencia-apendicitis-aguda-un-centro-X1405009914551822#:~:text=El%207%25%20de%20la%20poblaci%C3%B3n,6.7%25%20para%20el%20sexo%20femenino.
  	 
-- 3.	Tejada-Llacsa PJ, Melqarejo-Garcia GC. Incidencia de apendicitis aguda y su relación con factores ambientales, Perú, 2013. An Fac Med (Lima Peru : 1990) [Internet]. 2015 [citado el 19 de septiembre de 2023];76(3):253–6. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832015000400005
+3.	Tejada-Llacsa PJ, Melqarejo-Garcia GC. Incidencia de apendicitis aguda y su relación con factores ambientales, Perú, 2013. An Fac Med (Lima Peru : 1990) [Internet]. 2015 [citado el 19 de septiembre de 2023];76(3):253–6. Disponible en: http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832015000400005
  	 
-- 4.	EPIQ 7 [Internet]. Philips. [citado el 19 de septiembre de 2023]. Disponible en: https://www.philips.com.pe/healthcare/product/HC795200/epiq-7-sistema-de-ultrasonido-premium
+4.	EPIQ 7 [Internet]. Philips. [citado el 19 de septiembre de 2023]. Disponible en: https://www.philips.com.pe/healthcare/product/HC795200/epiq-7-sistema-de-ultrasonido-premium
  	 
-- 5.	Sonosite Edge II [Internet]. Sonosite.com. [citado el 19 de septiembre de 2023]. Disponible en: https://www.sonosite.com/es/productos/sonosite-edge-ii
+5.	Sonosite Edge II [Internet]. Sonosite.com. [citado el 19 de septiembre de 2023]. Disponible en: https://www.sonosite.com/es/productos/sonosite-edge-ii
  	 
 
 
