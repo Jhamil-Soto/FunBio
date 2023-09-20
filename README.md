@@ -13,7 +13,13 @@ Integrantes:
 
 La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.
 
-## **1. Fisiopatología** ##
+## **1. Prevalencia** ##
+El 7% de la población total tendrá apendicitis en alguna etapa de su vida, el pico de incidencia de la condición estará entre los 10 y 30 años de edad en ambos sexos con mayor frecuencia en el sexo masculino 8.6 y 6.7% para el sexo femenino.
+
+## **2. Incidencia** ##
+En el Perú la la tasa de apendicitis fue 9,6 x 10 000 habitantes. La región con la mayor tasa de incidencia fue Madre de Dios (22,5 x 10 000 hab.). Por otro lado, la región con la menor tasa de incidencia de apendicitis fue Puno (2,7 x 10 000 hab.).
+
+## **3. Fisiopatología** ##
 
 La fisiopatología de la apendicitis aguda es aún desconocida, aunque se han propuesto varias teorías. La más aceptada por los cirujanos describe una fase inicial en la que se produce una obstrucción del lumen apendicular debido a diferentes factores, lo que causa distensión luminal y aumento de presión intraluminal. Con el tiempo, se produce una obstrucción adicional del flujo linfático y venoso, lo que favorece aún más el crecimiento bacteriano y desencadena la producción de edema.
 
@@ -21,7 +27,7 @@ En esta etapa, el apéndice se vuelve edematoso e isquémico, lo que provoca una
 
 Otras teorías propuestas incluyen la ulceración de la mucosa por infección viral seguida de colonización bacteriana, así como una dieta pobre en fibra que ralentiza el tránsito intestinal y contribuye a la retención de heces en el apéndice. Aunque estas teorías no son tan ampliamente aceptadas como la primera, es importante tenerlas en cuenta al evaluar a un paciente con sospecha de apendicitis aguda.
 
-## **2. Diagnóstico Clínico** ##
+## **4. Diagnóstico Clínico** ##
 
 A pesar de los múltiples métodos diagnósticos disponibles, la historia clínica y el examen físico siguen siendo fundamentales para el diagnóstico de la apendicitis. El dolor es descrito como agudo y localizado inicialmente en el epigastrio o periumbilical, migrando a la fosa iliaca derecha en un 50-60% de los casos. Las consideraciones anatómicas y sus variantes pueden influir en la presentación del dolor. Anorexia y náusea son síntomas frecuentes, mientras que el vómito es poco común antes de la instauración del dolor.
 
@@ -29,7 +35,7 @@ Durante la evaluación del paciente, se enfatiza en la localización del dolor y
 
 En cuanto al uso de analgesia en pacientes con dolor abdominal y posible apendicitis, se ha descrito que puede atenuar o abolir los signos sugestivos de la enfermedad, lo que ha llevado a evitar su uso. Sin embargo, la evidencia actual no respalda esta práctica. Existen medicamentos con propiedades analgésicas puras u otros que adicionalmente tienen mecanismos antiinflamatorios. Un estudio mostró que los opiodes no se asocian con retraso en el tratamiento, mientras que los antiinflamatorios sí lo hacen. Por lo tanto, se debe considerar cuidadosamente el uso de analgesia en pacientes con sospecha de apendicitis aguda.
 
-## **3. Dispositivos y técnicas de diagnóstico** ##
+## **5. Dispositivos y técnicas de diagnóstico** ##
 
  - Radiológico
    
@@ -44,7 +50,7 @@ Se han utilizado glóbulos blancos marcados con tecnecio 99m y Solesumab como m�
 La leucocitosis, con un conteo de leucocitos entre 12,000 y 18,000 mm3, se observa comúnmente en pacientes con apendicitis aguda. Sin embargo, este valor no es útil para diferenciar entre apendicitis                      complicada y no complicada. Los análisis de orina se solicitan para excluir la posibilidad de infección del tracto urinario y pueden mostrar piuria y/o hematuria sin bacteriuria en un tercio de los                                        pacientes con apendicitis debido a la proximidad del uréter y la vejiga. | 
 
 
-## **4. Tratamiento** ##
+## **5. Tratamiento** ##
 
 El tratamiento de la apendicitis aguda se basa en la resucitación inicial del paciente y el tratamiento quirúrgico definitivo. Se debe administrar fluidos endovenosos y antibióticos preoperatorios activos contra la flora encontrada en el apéndice. El uso de antibióticos preoperatorios disminuye las complicaciones postquirúrgicas. En casos de apendicitis aguda no perforada, una dosis única de cefalotina o ampicilina es suficiente. En casos de apendicitis perforada, se ha utilizado una triple asociación antibiótica con ampicilina, gentamicina y metronidazol/clindamicina. El uso de antibióticos postoperatorios no adiciona ningún beneficio en el tratamiento de los pacientes con apendicitis aguda no perforada y aumenta los costos.
 
