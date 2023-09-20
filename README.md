@@ -14,9 +14,11 @@ Integrantes:
 La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.
 
 ## **1. Prevalencia** ##
+
 El 7% de la población total tendrá apendicitis en alguna etapa de su vida, el pico de incidencia de la condición estará entre los 10 y 30 años de edad en ambos sexos con mayor frecuencia en el sexo masculino 8.6 y 6.7% para el sexo femenino.
 
 ## **2. Incidencia** ##
+
 En el Perú la la tasa de apendicitis fue 9,6 x 10 000 habitantes. La región con la mayor tasa de incidencia fue Madre de Dios (22,5 x 10 000 hab.). Por otro lado, la región con la menor tasa de incidencia de apendicitis fue Puno (2,7 x 10 000 hab.).
 
 ## **3. Fisiopatología** ##
@@ -57,6 +59,13 @@ El tratamiento de la apendicitis aguda se basa en la resucitación inicial del p
 El tratamiento óptimo en los casos de apendicitis aguda no perforada es la resucitación inicial con fluidos endovenosos, la administración de una dosis única de antibiótico preoperatorio y la apendicectomía en calidad de urgencia. En casos de apendicitis perforada, se ha propuesto el manejo no quirúrgico, con tratamiento antibiótico y posterior apendicectomía.
 
 El lavado peritoneal nunca ha mostrado beneficio clínico. La técnica laparoscópica ha mostrado disminución en la aparición de infecciones de herida, dolor postoperatorio y estancia hospitalaria, teniendo en su contra un aumento en la incidencia de abscesos intra-abdominales. La técnica laparoscópica se ha promovido para casos de apendicitis complicada y se ha asociado con menor uso de analgésicos, menor tiempo de hospitalización, menor incidencia de infección de heridas y menor formación de abscesos intra-abdominales.
+
+## **6. Conclusión** ##
+
+El uso indiscriminado de la ecografía en abdomen agudo no traumático incrementa el trabajo del personal, prolonga la estancia hospitalaria y posiblemente retrasa el tratamiento, aumentando los costos hospitalarios.
+La mayor utilidad de la ecografía se obtiene en el grupo de pacientes en quienes después de la evaluación inicial la probabilidad de apendicitis sigue siendo indeterminada. Tiene especial valor en niños y mujeres embarazadas.
+La TC tiene un excelente desempeño para el diagnóstico de la apendicitis aguda pero su uso no puede ser indiscriminado y debe limitarse a los pacientes con presentaciones clínicas atípicas.
+El mayor valor de las imágenes diagnósticas en pacientes con sospecha clínica de apendicitis aguda radica en la posibilidad de demostrar la enfermedad en pacientes con cuadros clínicos equívocos y en la de aclarar diagnósticos diferenciales.
 
 ## **Estado del arte comercial** ##
 
