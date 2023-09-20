@@ -11,15 +11,15 @@ Integrantes:
 
 ## **¿Qué es la apendicitis?**
 
-La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.
+La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.[1]
 
 ## **1. Prevalencia** ##
 
-El 7% de la población total tendrá apendicitis en alguna etapa de su vida, el pico de incidencia de la condición estará entre los 10 y 30 años de edad en ambos sexos con mayor frecuencia en el sexo masculino 8.6 y 6.7% para el sexo femenino.
+El 7% de la población total tendrá apendicitis en alguna etapa de su vida, el pico de incidencia de la condición estará entre los 10 y 30 años de edad en ambos sexos con mayor frecuencia en el sexo masculino 8.6 y 6.7% para el sexo femenino.[2]
 
 ## **2. Incidencia** ##
 
-En el Perú la la tasa de apendicitis fue 9,6 x 10 000 habitantes. La región con la mayor tasa de incidencia fue Madre de Dios (22,5 x 10 000 hab.). Por otro lado, la región con la menor tasa de incidencia de apendicitis fue Puno (2,7 x 10 000 hab.).
+En el Perú la la tasa de apendicitis fue 9,6 x 10 000 habitantes. La región con la mayor tasa de incidencia fue Madre de Dios (22,5 x 10 000 hab.). Por otro lado, la región con la menor tasa de incidencia de apendicitis fue Puno (2,7 x 10 000 hab.).[3]
 
 ## **3. Fisiopatología** ##
 
@@ -71,7 +71,7 @@ El mayor valor de las imágenes diagnósticas en pacientes con sospecha clínica
 
 **EPIQ 7**
 
-El sistema de ultrasonido Philips EPIQ 7 es una herramienta de alta gama con tecnología avanzada y características innovadoras. Su objetivo es proporcionar imágenes de alta calidad y facilitar la recopilación de datos precisos en diversas aplicaciones médicas, incluyendo estudios pélvicos.
+El sistema de ultrasonido Philips EPIQ 7 es una herramienta de alta gama con tecnología avanzada y características innovadoras. Su objetivo es proporcionar imágenes de alta calidad y facilitar la recopilación de datos precisos en diversas aplicaciones médicas, incluyendo estudios pélvicos.[4]
 
 Características destacadas del Philips EPIQ 7:
 
@@ -84,7 +84,7 @@ Características destacadas del Philips EPIQ 7:
 
 **FUJIFILM SonoSite Edge II**
 
-El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrece imágenes de alta calidad y precisión en una variedad de aplicaciones médicas, incluyendo estudios pélvicos. Este sistema se destaca por su tecnología innovadora y características avanzadas que facilitan la adquisición de datos precisos.
+El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrece imágenes de alta calidad y precisión en una variedad de aplicaciones médicas, incluyendo estudios pélvicos. Este sistema se destaca por su tecnología innovadora y características avanzadas que facilitan la adquisición de datos precisos.[5]
 
 - Portabilidad: El Edge II es extremadamente portátil y está diseñado para su uso en entornos móviles o en el punto de atención, lo que lo hace ideal para situaciones donde la movilidad es esencial.
 - Durabilidad: Ofrece una construcción robusta y duradera que puede resistir condiciones exigentes y el transporte frecuente sin comprometer la calidad o el rendimiento.
