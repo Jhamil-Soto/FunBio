@@ -103,6 +103,12 @@ El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrec
 
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/e236ed54-39e1-4847-80c3-9ff3678c1f6e)
 
+
+## **Bocetos** ##
+
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/5072ddda-3c19-475d-bc59-d010fc40bbc9)
+
+
 ## Bibliografía
 
 Bibliografía
