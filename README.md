@@ -11,7 +11,7 @@ Integrantes:
 
 ## **¿Qué es la apendicitis?**
 
-La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.[1]
+La apendicitis es una inflamación del apéndice, un órgano en forma de bolsa ubicado en la parte inferior derecha del abdomen. Se produce cuando el apéndice se obstruye y se acumulan bacterias, lo que provoca dolor abdominal, fiebre y náuseas, entre otros síntomas. La apendicitis es una afección médica grave que requiere atención médica inmediata, ya que puede provocar complicaciones graves si no se trata a tiempo.[1] Con respecto a esta inflamación, la apendicitis aguda tiene un riesgo estimado de por vida de aproximadamente el 7% y es una de las causas más comunes de abdomen agudo, definida como la aparición aguda de dolor causado por una patología intraabdominal potencialmente mortal que requiere una intervención quirúrgica urgente . Este diagnóstico sigue siendo un desafío porque su presentación clínica puede ser atípica y los síntomas a menudo se superponen con otras afecciones que pueden necesitar o no tratamiento quirúrgico.
 
 ## **1. Prevalencia** ##
 
