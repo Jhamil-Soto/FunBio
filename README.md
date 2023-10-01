@@ -51,6 +51,9 @@ Se han utilizado glóbulos blancos marcados con tecnecio 99m y Solesumab como m�
   
 La leucocitosis, con un conteo de leucocitos entre 12,000 y 18,000 mm3, se observa comúnmente en pacientes con apendicitis aguda. Sin embargo, este valor no es útil para diferenciar entre apendicitis                      complicada y no complicada. Los análisis de orina se solicitan para excluir la posibilidad de infección del tracto urinario y pueden mostrar piuria y/o hematuria sin bacteriuria en un tercio de los                                        pacientes con apendicitis debido a la proximidad del uréter y la vejiga. | 
 
+- Termografía infrarroja digital (IRT)
+
+La termografía infrarroja digital (IRT) es una técnica de obtención de imágenes segura, no invasiva y de bajo costo que detecta la radiación infrarroja, que produce un patrón de temperatura de la superficie fotografiada. La IRT se ha utilizado anteriormente para detectar inflamación y perfusión en el cuerpo humano. Las imágenes IRT son similares a la obtención de una fotografía del paciente que permite monitorear la distribución de la temperatura de la superficie de la piel de una manera no invasiva y sin contacto. La fiebre es uno de los principales signos predictivos de apendicitis aguda (cociente de probabilidad de 3,2) y la temperatura axilar superior a 38,3 °C sugiere perforación del apéndice en el contexto de apendicitis aguda.
 
 ## **6. Tratamiento** ##
 
