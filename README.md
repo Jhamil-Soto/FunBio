@@ -100,7 +100,7 @@ El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrec
 ## **Esquema de funciones** ##
 
 ![Esquema de funciones y caja negra](https://github.com/Jhamil-Soto/FunBio/assets/143302411/a252269e-7d52-47d0-ac96-67abf8088d95)
-![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/7d0edcbe-e96d-4a1e-80eb-c888da81a8e5)
+![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/88f9f94e-c498-401c-94e5-13bc7f803f3f)
 ![Esquema de funciones y caja negra (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/3b079431-1d52-44c6-9e9a-c9c6345a0fd1)
 
 ## **Matriz morfológica** ##
