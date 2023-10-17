@@ -1,1 +1,5 @@
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/552bc912-337b-4cc7-ac2e-5c1182b04268)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/6ce6c896-e330-432e-a41a-02c28df28a52)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/fbf5c48d-ac15-4550-b49b-86b513158e9f)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/2c910a0d-2235-4184-8ffb-5897198c4e6f)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/8b547475-19eb-4809-8044-80d5b431b981)
