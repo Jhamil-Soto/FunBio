@@ -8,7 +8,7 @@
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/4d1adf2f-b1f3-4ce6-9a47-13b554d0035e)
 
 
-## Electrónica ##
+## Diagrama o Esquema Electrónico del concepto de solución ##
 
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/d339f4c8-aeba-4f71-a340-4cde6558acd1)
 
