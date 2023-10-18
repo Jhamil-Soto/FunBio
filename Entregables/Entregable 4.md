@@ -10,9 +10,10 @@
 
 ## Electrónica ##
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/868fd168-81d9-4309-a4a3-8ca362b154a7)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/d339f4c8-aeba-4f71-a340-4cde6558acd1)
 
 ## Diseño ##
+
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/7793cf69-9d07-4075-ae78-bddbbc543f17)
 
 
