@@ -99,15 +99,17 @@ El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrec
 
 ## **Esquema de funciones** ##
 
-![Esquema de funciones y caja negra](https://github.com/Jhamil-Soto/FunBio/assets/143302411/a252269e-7d52-47d0-ac96-67abf8088d95)
-![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/88f9f94e-c498-401c-94e5-13bc7f803f3f)
-![Esquema de funciones y caja negra (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/3b079431-1d52-44c6-9e9a-c9c6345a0fd1)
+![Esquema de funciones y caja negra](https://github.com/Jhamil-Soto/FunBio/assets/143302411/23946b0f-36da-4dfe-b6ca-36af5a5860e4)
+![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/5eb61901-c9fb-482c-930d-40edc2cdc49b)
+![Esquema de funciones y caja negra (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/f1ba7026-9c9a-47b8-8068-c4e8e35b66bb)
+
 
 ## **Matriz morfológica** ##
 
-![Matriz morfológica](https://github.com/Jhamil-Soto/FunBio/assets/143302411/8e32877c-aa17-4313-9406-7db8e4f22dfe)
-![Matriz morfológica y conclusión](https://github.com/Jhamil-Soto/FunBio/assets/143302411/04a81ae2-55b8-42e2-a9bf-e236f6335f0f)
-![Conclusión_cs3](https://github.com/Jhamil-Soto/FunBio/assets/143302411/5e5bcbdc-ea3b-47e0-adb2-79dd705eaff7)
+![Esquema de funciones y caja negra](https://github.com/Jhamil-Soto/FunBio/assets/143302411/e0943176-d573-4e5a-8e69-27ca5c235326)
+![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/584d4848-7200-4b13-9a8c-a202b7c642ca)
+![Esquema de funciones y caja negra (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/d56f335a-96f8-4e87-a1f2-23b836406978)
+
 
 ## **Bocetos** ##
 
