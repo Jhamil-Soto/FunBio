@@ -16,7 +16,7 @@ Integrantes:
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/162a3e12-c6e2-4097-854b-34e4636b512c)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/51253f7f-7790-4aa9-acb8-69600d74c04c)
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a9b1f37f-f2d0-46ac-986b-24f8ce519776)
+
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/52869f20-fc47-4e3a-b778-359a242dda5d)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/11eceaa1-ada3-439e-8188-65389f610a98)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/7036207f-a410-451a-9122-1397eee63b55)
@@ -32,33 +32,6 @@ Integrantes:
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/b3aa4772-ba8f-4b59-a497-c3710d424f1d)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/518bf6a5-e2fd-446b-8f50-4439932fb7d3)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/e943f406-446a-44be-ade9-15deff004860)
-
-
-
-**EPIQ 7**
-
-El sistema de ultrasonido Philips EPIQ 7 es una herramienta de alta gama con tecnología avanzada y características innovadoras. Su objetivo es proporcionar imágenes de alta calidad y facilitar la recopilación de datos precisos en diversas aplicaciones médicas, incluyendo estudios pélvicos.[4]
-
-Características destacadas del Philips EPIQ 7:
-
-- PureWave Cristal Tecnología: Este sistema utiliza transductores PureWave Crystal, que ofrecen una mayor resolución de imagen y una mejor penetración, lo que resulta en una calidad de imagen excepcional.
-- nSIGHT Imaging: Esta tecnología de procesamiento de imágenes avanzada mejora la claridad de las imágenes y la capacidad de visualización de estructuras anatómicas.
-- Elastografía Shear Wave: Permite evaluar la rigidez de los tejidos, lo que puede ser útil en la caracterización de masas o tumores.
-- XRES: Ofrece una reducción de ruido en las imágenes para una visualización más nítida de las estructuras.
-
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/2c1f5b21-cd85-47f4-b4ec-72981cb0cf87)
-
-**FUJIFILM SonoSite Edge II**
-
-El Philips EPIQ 7 es un sistema de ultrasonido avanzado y de alta gama que ofrece imágenes de alta calidad y precisión en una variedad de aplicaciones médicas, incluyendo estudios pélvicos. Este sistema se destaca por su tecnología innovadora y características avanzadas que facilitan la adquisición de datos precisos.[5]
-
-- Portabilidad: El Edge II es extremadamente portátil y está diseñado para su uso en entornos móviles o en el punto de atención, lo que lo hace ideal para situaciones donde la movilidad es esencial.
-- Durabilidad: Ofrece una construcción robusta y duradera que puede resistir condiciones exigentes y el transporte frecuente sin comprometer la calidad o el rendimiento.
-- Facilidad de Uso: Cuenta con una interfaz de usuario intuitiva que facilita la configuración y la obtención de imágenes de alta calidad, lo que permite un diagnóstico rápido y preciso.
-- Amplia Variedad de Aplicaciones: A pesar de su tamaño compacto, el Edge II es versátil y puede utilizarse en diversas aplicaciones médicas, incluyendo emergencias, cuidados intensivos, anestesiología y más.
-- Calidad de Imagen: Ofrece una calidad de imagen de alto rendimiento que permite una visualización clara de las estructuras anatómicas y un diagnóstico preciso.
-
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/8aff5ec7-da61-4ec4-ab11-edc650895f65)
 
 ## **Esquema de funciones** ##
 
