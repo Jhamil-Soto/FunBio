@@ -3,11 +3,11 @@
 
 Integrantes:
 - Paola Fernanda Hilario Borja (Diseñadora de la página web y editora en Github)
-- Alejandra Paola Rea Rondón (Diseñadora de la página web y editora en Github)
+- Alejandra Paola Rea Rondón (Moldeador 3D y editora en Github)
 - Augusto Renato Aldave Marini (Investigador y  coordinador general)
-- Jhamil Alessandro Soto Vera (Diseñador de la página web y editor en Github)
-- Diego Alonso Alvarez O'Neill (Encargado de la programación)
-- Flavio Florentino Valladares Tucto (Investigador y redactor)
+- Jhamil Alessandro Soto Vera (Moldeador 3D y editor en Github)
+- Diego Alonso Alvarez O'Neill (Desarrollador de software)
+- Flavio Florentino Valladares Tucto (Desarrollador de software e investigador)
 
 ## **¿Qué es la apendicitis?**
 
