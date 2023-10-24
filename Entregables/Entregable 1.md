@@ -1,5 +1,5 @@
 
-## **Introducción:
+## Introducción:
 
 Una mama se compone de tres partes principales: lóbulos, conductos y tejido conectivo. Los lóbulos son las glándulas que producen leche [1]. Los conductos son tubos que llevan la leche al pezón. El tejido conectivo (que consta de tejido fibroso y adiposo) rodea y mantiene todo unido.  [1]
 
