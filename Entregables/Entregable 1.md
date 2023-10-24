@@ -1,13 +1,13 @@
 
 # Entregable 1
+![Entregable 1_page-0001](https://github.com/Jhamil-Soto/FunBio/assets/143336307/4169c79c-c220-4cc8-9f0c-bdbdfcf8ad5f)
+![Entregable 1_page-0002](https://github.com/Jhamil-Soto/FunBio/assets/143336307/962528a2-bcb3-47f8-b153-8c7c02d1e9ea)
+![Entregable 1_page-0003](https://github.com/Jhamil-Soto/FunBio/assets/143336307/37816284-327d-493c-b06f-9b9bf3d08154)
+![Entregable 1_page-0004](https://github.com/Jhamil-Soto/FunBio/assets/143336307/45a217f3-1680-43d4-a28a-ad537edc5a7f)
+![Entregable 1_page-0005](https://github.com/Jhamil-Soto/FunBio/assets/143336307/d23e5c08-bb75-4434-a9fe-1b9e9d2b2625)
+![Entregable 1_page-0006](https://github.com/Jhamil-Soto/FunBio/assets/143336307/c0fdef53-a97a-4663-8889-f2b8f4955fd9)
+![Entregable 1_page-0007](https://github.com/Jhamil-Soto/FunBio/assets/143336307/041b6a56-ef79-4569-bcba-d77e349d0fca)
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/ec8256e8-8e5a-4538-92ca-b8dcc5bd3d78)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/1579c1c7-e67e-446a-90f8-8da49440e96c)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/0e9ea090-98c9-462f-bf5c-4cdf417e0eb2)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/6f30011c-03d1-45bd-ae44-9010c64da13b)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/aff6bed0-8ee0-42a0-9f2b-ba2e2e3ae925)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/02de3f83-1523-40bf-8ab8-b8191ab7a047)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/7086efce-9cf1-4a1d-8f4a-f48a03cd2437)
 
 
 
