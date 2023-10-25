@@ -66,6 +66,22 @@ Integrantes:
 ![Cámara térmica](https://github.com/Jhamil-Soto/FunBio/assets/143302411/1e6d4a90-4269-49e1-bfbc-c265b10b2deb)
 ![Arduino nano](https://github.com/Jhamil-Soto/FunBio/assets/143302411/5a7f176a-16db-49dd-97f9-9c87e2a486c8)
 
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/e430f1b0-4614-441a-817a-0d2b31df64d8)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/12f75744-9c0b-4f25-b2b7-f1675b8a9f53)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/27f371fb-9c21-4c25-9982-684f5776e0ab)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/d297be5e-91c0-4fa1-b1f6-31afe93a614c)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/19233398-7aaa-4820-95df-334088c3af8e)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/93484300-43cb-4be9-bd3a-6ce4cfc3466d)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/3af9f6d9-3d0b-4890-9b3e-7e83effb4938)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/fb0283ae-cd79-4037-ab28-e746ac552a60)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/724c98b9-23af-4054-9d30-6d2b243e761e)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/568ae034-7f9b-4e5d-8899-be128f51425a)
+
+
+
+
+
+
 ## Bibliografía
 
 Bibliografía
