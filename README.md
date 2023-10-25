@@ -49,8 +49,9 @@ Integrantes:
 
 ## **Bocetos** ##
 
-![Boceto 1](https://github.com/Jhamil-Soto/FunBio/assets/143302411/48b96a98-1443-40fa-9ded-447ddc137a9e)
-![Boceto 1 (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/9a4c4c61-589d-45ab-ab5c-4f4353c3338e)
+![Presentación Diapositivas Propuesta de Proyecto Portfolio Catálogo Aesthetic Elegante Orgánico Natural Beige Pastel](https://github.com/Jhamil-Soto/FunBio/assets/143302411/67456763-7b16-465b-a59a-56f2f6fcdc88)
+![Presentación Diapositivas Propuesta de Proyecto Portfolio Catálogo Aesthetic Elegante Orgánico Natural Beige Pastel (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/51f12241-9d4f-4f4c-bc16-90371021eed3)
+![Presentación Diapositivas Propuesta de Proyecto Portfolio Catálogo Aesthetic Elegante Orgánico Natural Beige Pastel (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/8c1a2f83-5abc-4cc2-9517-37246dcbd516)
 
 ## **Evaluación técnica** ##
 
