@@ -78,6 +78,8 @@ Integrantes:
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/568ae034-7f9b-4e5d-8899-be128f51425a)
 
 
+## DIAGRAMA DE FLUJO DEL FUNCIONAMIENTO DE LA PROPUESTA ESCOGIDA ##
+![Diagrama en blanco](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a219a41c-e707-49f5-acbd-d6b4b8b22d0d)
 
 
 
