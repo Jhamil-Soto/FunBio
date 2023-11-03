@@ -79,10 +79,14 @@ Integrantes:
 
 
 ## DIAGRAMA DE FLUJO DEL FUNCIONAMIENTO DE LA PROPUESTA ESCOGIDA ##
+
 ![Diagrama en blanco](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a219a41c-e707-49f5-acbd-d6b4b8b22d0d)
 
 ## AVANCE DE LA PARTE ELECTRÓNICA ##
+
 ![WhatsApp Image 2023-11-02 at 23 33 57](https://github.com/Jhamil-Soto/FunBio/assets/143336307/532ad589-eed4-4bb3-bc2c-0548aa66699a)
+
+![Diseño esquemático de circuitos](https://github.com/Jhamil-Soto/FunBio/assets/143302411/b16dc03c-54f0-4788-a223-b1f33bcc4049)
 
 ## Bibliografía
 
