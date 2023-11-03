@@ -82,7 +82,7 @@ Integrantes:
 ![Diagrama en blanco](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a219a41c-e707-49f5-acbd-d6b4b8b22d0d)
 
 ## AVANCE DE LA PARTE ELECTRÓNICA ##
-![Uploading image.png…]()
+![WhatsApp Image 2023-11-02 at 23 33 57](https://github.com/Jhamil-Soto/FunBio/assets/143336307/532ad589-eed4-4bb3-bc2c-0548aa66699a)
 
 ## Bibliografía
 
