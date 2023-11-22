@@ -63,6 +63,9 @@ Integrantes:
 
 ## **Planos técnicos** #
 
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/85e4a895-4692-47c2-b67c-b2286e35b1d4)
+
+
 ## Hito 2 ##
 
 https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content=DAF0dOviaoA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
