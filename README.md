@@ -35,10 +35,7 @@ Integrantes:
 
 ## **Esquema de funciones** ##
 
-![Esquema de funciones y caja negra](https://github.com/Jhamil-Soto/FunBio/assets/143302411/23946b0f-36da-4dfe-b6ca-36af5a5860e4)
 ![Esquema de funciones y caja negra (1)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/5eb61901-c9fb-482c-930d-40edc2cdc49b)
-![Esquema de funciones y caja negra (2)](https://github.com/Jhamil-Soto/FunBio/assets/143302411/f1ba7026-9c9a-47b8-8068-c4e8e35b66bb)
-
 
 ## **Matriz morfológica** ##
 
