@@ -64,6 +64,9 @@ Integrantes:
 ## **Planos técnicos** #
 
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/85e4a895-4692-47c2-b67c-b2286e35b1d4)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/b3f6fde2-6307-45db-bc24-360d8559424d)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/abe51d4e-08b7-40a8-b5cf-eaf21519ab21)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/30164f57-208b-431f-ba15-9e805c08fee8)
 
 
 ## Hito 2 ##
