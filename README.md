@@ -67,6 +67,7 @@ Integrantes:
 
 ## DIAGRAMA DE FLUJO DEL FUNCIONAMIENTO DE LA PROPUESTA ESCOGIDA ##
 
+[Diagrama de Flujo.pdf](https://github.com/Jhamil-Soto/FunBio/files/13442979/Diagrama.de.Flujo.pdf)
 
 
 ## AVANCE DE LA PARTE ELECTRÓNICA ##
