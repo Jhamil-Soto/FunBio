@@ -1,4 +1,4 @@
-# FunBio
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/546149bd-b224-432b-848b-4abe09a28d91)# FunBio
 ¡Bienvenidos al repositorio del grupo 1 del horario B401 - Fundamentos de Biodiseño!
 
 Integrantes:
@@ -69,6 +69,9 @@ Integrantes:
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/cd6f5583-947d-496d-af11-78502881b539)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/30164f57-208b-431f-ba15-9e805c08fee8)
 
+## Hito 1 ## 
+
+https://www.canva.com/design/DAFx9Dh4Mfk/TWcTzcCIFCz6p3I7YFUFug/edit
 
 ## Hito 2 ##
 
@@ -81,9 +84,10 @@ https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content
 
 ## AVANCE DE LA PARTE ELECTRÓNICA ##
 
-![WhatsApp Image 2023-11-02 at 23 33 57](https://github.com/Jhamil-Soto/FunBio/assets/143336307/532ad589-eed4-4bb3-bc2c-0548aa66699a)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/2d5d6d7b-3bbf-40c3-a41a-a265124d87a1)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a6181e1b-7fb0-4e64-a6c8-29cc0ca69fdd)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a15af0a2-2ce5-4885-89c6-cf815e6fce46)
 
-![Diseño esquemático de circuitos](https://github.com/Jhamil-Soto/FunBio/assets/143302411/b16dc03c-54f0-4788-a223-b1f33bcc4049)
 
 ## Bibliografía
 
