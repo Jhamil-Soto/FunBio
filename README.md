@@ -81,10 +81,11 @@ https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content
 
 ## AVANCE DE LA PARTE ELECTRÓNICA ##
 
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/2d5d6d7b-3bbf-40c3-a41a-a265124d87a1)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a6181e1b-7fb0-4e64-a6c8-29cc0ca69fdd)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/29393b7c-6663-4a5d-997d-59f1f64a34ca)
+![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/3939f228-e37d-4c6e-85cc-d5624bed1b73)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a15af0a2-2ce5-4885-89c6-cf815e6fce46)
-![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/546149bd-b224-432b-848b-4abe09a28d91)
+
+
 
 ## Bibliografía
 
