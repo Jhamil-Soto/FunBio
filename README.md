@@ -63,7 +63,9 @@ Integrantes:
 
 ## **Planos técnicos** #
 
+## Hito 2 ##
 
+https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content=DAF0dOviaoA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## DIAGRAMA DE FLUJO DEL FUNCIONAMIENTO DE LA PROPUESTA ESCOGIDA ##
 
