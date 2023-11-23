@@ -87,15 +87,15 @@ https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content
 
 ## Archivos ## 
 
-** Cámara térmica **
+- Cámara térmica 
 
 [Cámara térmica.zip](https://github.com/Jhamil-Soto/FunBio/files/13453481/Camara.termica.zip)
 
-** Archivos de diseño final **
+- Archivos de diseño final 
 
 [Archivos stl.zip](https://github.com/Jhamil-Soto/FunBio/files/13453437/Archivos.stl.zip)
 
-** Archivos de diseño arteriores **
+- Archivos de diseño arteriores 
 
 [Archivos stl anteriores.zip](https://github.com/Jhamil-Soto/FunBio/files/13453479/Archivos.stl.anteriores.zip)
 
