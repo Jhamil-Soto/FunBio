@@ -85,7 +85,9 @@ https://www.canva.com/design/DAF0dOviaoA/KHLBccpmnJ8FQ2Yl9Eu4pg/edit?utm_content
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/3939f228-e37d-4c6e-85cc-d5624bed1b73)
 ![image](https://github.com/Jhamil-Soto/FunBio/assets/143336307/a15af0a2-2ce5-4885-89c6-cf815e6fce46)
 
+## Archivos ## 
 
+[Archivos stl..zip](https://github.com/Jhamil-Soto/FunBio/files/13453426/Archivos.stl.zip)
 
 ## Bibliografía
 
